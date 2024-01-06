@@ -6,7 +6,7 @@ window.title("Demo")
 window.geometry("750x550")
 
 
-
+Label = ttk.Label(windows, text = "Label")
 
 
 
